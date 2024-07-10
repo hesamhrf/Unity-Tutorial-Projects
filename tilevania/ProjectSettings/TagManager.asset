@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Climb
+  - Back Ground
+  - Player
+  - jump
+  - enemy
+  - Spikes
+  - Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 164295951
+    locked: 0
+  - name: water
+    uniqueID: 4029806763
+    locked: 0
+  - name: platform
+    uniqueID: 1784556269
+    locked: 0
+  - name: climb
+    uniqueID: 567903657
+    locked: 0
+  - name: jump
+    uniqueID: 1284927513
+    locked: 0
+  - name: spikes
+    uniqueID: 2547889043
+    locked: 0
+  - name: enemy
+    uniqueID: 1509576093
+    locked: 0
+  - name: Exit
+    uniqueID: 168142881
+    locked: 0
+  - name: player
+    uniqueID: 1577673815
+    locked: 0
+  - name: UI
+    uniqueID: 4247990723
+    locked: 0
